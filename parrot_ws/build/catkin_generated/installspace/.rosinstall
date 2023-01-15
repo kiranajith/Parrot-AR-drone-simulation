@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/parrot_ws/install/setup.sh
